@@ -1,0 +1,6 @@
+plugin:
+    name: 'matchish.demo::lang.plugin.name'
+    description: 'matchish.demo::lang.plugin.description'
+    author: Matchish
+    icon: oc-icon-code
+    homepage: ''
